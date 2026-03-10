@@ -3,11 +3,11 @@ This project implements a simple option pricing framework for European options o
 
 
 
-The objective is to compute theoretical option prices using both:
+The objective is to compute theoretical option prices using both :
 
-\- the Black-Scholes analytical model
+- the Black-Scholes analytical model
 
-\- Monte Carlo simulation
+- Monte Carlo simulation
 
 
 This project extends a previous Monte Carlo market risk simulation on SPY :
@@ -23,13 +23,13 @@ https://github.com/nicolasmarveaux456-hue/montecarlo-spy-risk
 
 
 
-The project focuses on three components:
+The project focuses on three components :
 
-\- Black-Scholes analytical pricing
+- Black-Scholes analytical pricing
 
-\- computation of option Greeks
+- computation of option Greeks
 
-\- Monte Carlo simulation of option prices
+- Monte Carlo simulation of option prices
 
 
 The analytical and simulation approaches are compared to analyse pricing consistency and convergence.
@@ -43,7 +43,7 @@ The analytical and simulation approaches are compared to analyse pricing consist
 ## Underlying asset
 Airbus stock (AIR.PA)
 
-Market data source:
+Market data source :
 Yahoo Finance
 
 
